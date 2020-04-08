@@ -28,3 +28,7 @@ body {
 .navbar-custom .navbar-text { 
     color: white !important; 
 } 
+
+.nav-link {
+    color: white !important;
+}
